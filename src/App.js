@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './angular-icon.svg';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello Forks..
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://angularjs.org/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn angular
         </a>
       </header>
     </div>
