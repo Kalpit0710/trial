@@ -45,13 +45,65 @@ import './App.css';
 // }
 
 
-import React from 'react';
-import Activity3 from './activity3';
+// import React from 'react';
+// import Activity3 from './activity3';
+
+// function App() {
+//   return (
+//     <div className="App">
+//       <Activity3 /> 
+//     </div>
+//   );
+// }
+
+
+// import React from 'react';
+// import Calculator from './calculator';
+
+// function App() {
+//   return (
+//     <div className="App">
+//       <Calculator /> 
+//     </div>
+//   );
+// }
+
+
+// export default App;
+
+
+// import React from 'react';
+// import Ca from './ca';
+
+// function App() {
+//   return (
+//     <div className="App">
+//       <Ca /> 
+//     </div>
+//   );
+// }
+
+
+// import Fun from './useState.js';
+// import Fun1 from './useEffect.js';
+
+// function App() {
+//   return (
+//     <div className="App">
+//       <Fun1 /> 
+//     </div>
+//   );
+// }
+
+
+// export default App;
+
+import Fun1 from './PropTypes.js';
 
 function App() {
   return (
     <div className="App">
-      <Activity3 /> 
+      <Fun1 /> 
     </div>
   );
 }
