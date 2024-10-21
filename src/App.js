@@ -98,15 +98,68 @@ import './App.css';
 
 // export default App;
 
-import Fun1 from './PropTypes.js';
+
+
+// import Fun1 from './PropTypes.js';
+
+// function App() {
+//   return (
+//     <div className="App">
+//       <Fun1 /> 
+//     </div>
+//   );
+// }
+
+
+// export default App;
+
+
+
+// import Fun1 from './funcCon.js';
+
+// function App() {
+//   return (
+//     <div className="App">
+//       <Fun1 /> 
+//     </div>
+//   );
+// }
+
+
+// export default App;
+
+
+
+// import React, { useState } from 'react';
+// import Lfh from './LifecycleHooks';
+
+// const App = () => {
+//   const [propValue, setPropValue] = useState(0);
+
+//   return (
+//     <div>
+//       <h1>React Functional Component Lifecycle</h1>
+//       <Lfh propValue={propValue} />
+//       <button onClick={() => setPropValue(propValue + 1)}>
+//         Change Prop Value
+//       </button>
+//     </div>
+//   );
+// };
+
+// export default App;
+
+
+
+import React from 'react';
+import Activity5 from './Activity5';
 
 function App() {
   return (
-    <div className="App">
-      <Fun1 /> 
+    <div>
+      <Activity5 />
     </div>
   );
 }
-
 
 export default App;
