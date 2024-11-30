@@ -4,7 +4,7 @@ const DynamicForm = () => {
   const [formData, setFormData] = useState({
     name: "",
     age: "",
-    type: "",
+    type: "student",
     course: "",
     jobTitle: "",
   });
@@ -74,7 +74,6 @@ const DynamicForm = () => {
         <div>
           <label>Type:</label>
           <select name="type" value={formData.type} onChange={handleChange}>
-            <option value="">Select</option>
             <option value="student">Student</option>
             <option value="professional">Professional</option>
           </select>
