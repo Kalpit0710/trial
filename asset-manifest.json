@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kalpit0710/trial/static/css/main.e6c13ad2.css",
+    "main.js": "/Kalpit0710/trial/static/js/main.f479c18a.js",
+    "static/js/453.f9e98e0f.chunk.js": "/Kalpit0710/trial/static/js/453.f9e98e0f.chunk.js",
+    "index.html": "/Kalpit0710/trial/index.html",
+    "main.e6c13ad2.css.map": "/Kalpit0710/trial/static/css/main.e6c13ad2.css.map",
+    "main.f479c18a.js.map": "/Kalpit0710/trial/static/js/main.f479c18a.js.map",
+    "453.f9e98e0f.chunk.js.map": "/Kalpit0710/trial/static/js/453.f9e98e0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f479c18a.js"
+  ]
+}
